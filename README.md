@@ -32,7 +32,7 @@ steps:
 6. Transmission: summary objects are stored locally on the filesystem and
    transmitted to a destination endpoint through `POST` requests.
 
-![Overview](/images/challenge_overview.svg)
+![Overview](/images/challenge_overview.png)
 
 ## Evaluation metrics
 
