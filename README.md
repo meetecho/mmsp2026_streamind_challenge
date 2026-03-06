@@ -1,6 +1,6 @@
 # The STREAMIND challenge
 
-Welcome to the STREAMING Grand Challenge!
+Welcome to the STREAMIND Grand Challenge!
 
 The objective of the challenge is to design and implement a complete streaming
 pipeline, bridging the gap between live audio reception and structured language
@@ -8,6 +8,14 @@ model inference. Participants will build their solutions on top of
 [Juturna](https://github.com/meetecho/juturna), an open-source Python framework
 developed by [Meetecho](https://www.meetecho.com/en/) for real-time AI data
 pipeline prototyping.
+
+## Important dates
+
+- Registration deadline: April 3, 2026
+- Paper submission deadline: June 19, 2026
+- Acceptance notification: July 17, 2026
+
+To register, submit a form [here](https://forms.gle/jED7zCjWRCVwg7Bp9).
 
 ## Challenge overview
 
