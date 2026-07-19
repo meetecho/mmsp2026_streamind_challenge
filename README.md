@@ -1,4 +1,4 @@
-# The STREAMIND challenge
+# The STREAMIND challenge (concluded)
 
 Welcome to the STREAMIND Grand Challenge!
 
@@ -9,11 +9,23 @@ model inference. Participants will build their solutions on top of
 developed by [Meetecho](https://www.meetecho.com/en/) for real-time AI data
 pipeline prototyping.
 
+# Challenge winners (July 19, 2026)
+
+We are thrilled to announce that **Mervegul Parlak, Burak Kara, Alperen F.
+Zengin and Ali C. Begen, are the winners of the MMSP 2026 STREAMIND Grand
+Challenge**, with their submission "A Real-Time Juturna Pipeline for Live Audio
+Summarization and Keyword Extraction"!
+
+Their solution achieved a remarkable balance of sub-second processing latency
+and high factual consistency using a robust Juturna graph servedy by a Janus
+instace. Thank you for your contribution!
+
 ## Important dates
 
-- Registration deadline: April 3, 2026
-- Paper submission deadline: June 19, 2026
-- Acceptance notification: July 17, 2026
+- ~~Registration deadline: April 3, 2026~~
+- ~~Paper submission deadline: June 19, 2026~~
+- ~~Acceptance notification: July 17, 2026~~
+- Camera-ready grand challenge paper submission due date: July 31, 2026
 
 To register, submit a form [here](https://forms.gle/jED7zCjWRCVwg7Bp9).
 
